@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+void main()
+{
+    
+	printf("Gudemorning 👀");
+	
+	int A = 7;
+	int B = 2;
+	int AB = A + B;
+	
+	printf("\n Resultado de 7 + 2 é:", AB)
+	
+
+}
